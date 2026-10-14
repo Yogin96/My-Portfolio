@@ -1,0 +1,25 @@
+@import url("fonts.css");
+
+/* Portfolio foundations. Shared by the homepage and design system reference. */
+:root {
+  --text-primary: #202020;
+  --text-secondary: #5e5e5e;
+  --text-tertiary: #999999;
+  --surface-page: #ffffff;
+  --surface-footer: #fdfdfd;
+  --border-subtle: rgba(0, 0, 0, 0.1);
+  --focus-color: #777777;
+  --font-family: "Inter", sans-serif;
+  --font-intro: 20px;
+  --font-title: 18px;
+  --font-body: 16px;
+  --font-meta: 15px;
+  --font-label: 14px;
+  --font-footer: 13px;
+  --tracking-label: 1px;
+  --space-label: 16px;
+  --space-grid: 14px;
+  --radius-project: 5px;
+  --radius-visual: 8px;
+  --content-width: 770px;
+}

@@ -1,0 +1,18 @@
+# Local visual verification artifacts
+preview.jpg
+*-preview.png
+*-update.png
+homepage-updated.png
+labels-*.png
+three-colors.png
+visual-borders.png
+design-system-inter.png
+footer-update.png
+
+# Local editor and operating system files
+.DS_Store
+Thumbs.db
+.vscode/
+node_modules/
+.env
+.env.*
